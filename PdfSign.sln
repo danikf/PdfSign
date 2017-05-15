@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfSign", "PdfSign\PdfSign.csproj", "{9512A6D4-B868-48BC-8609-63E9027DCABE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C763DEB0-B791-44C4-B589-20B198E61F4F}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9512A6D4-B868-48BC-8609-63E9027DCABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9512A6D4-B868-48BC-8609-63E9027DCABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9512A6D4-B868-48BC-8609-63E9027DCABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9512A6D4-B868-48BC-8609-63E9027DCABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
